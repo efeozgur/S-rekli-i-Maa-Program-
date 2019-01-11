@@ -10,6 +10,10 @@ namespace Sürekli_İşçi_Maaş_Programı
     {
         public string personelAdSoyad { get; set; }
         public string personelUnvan { get; set; }
+        public string personelIbanNo { get; set; }
+        public string personelTCNo { get; set; }
+        public string personelMedeniDurum { get; set; }
+        public string personelCocukSayisi { get; set; }
 
     }
 }
