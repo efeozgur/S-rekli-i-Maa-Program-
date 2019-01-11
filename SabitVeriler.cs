@@ -23,7 +23,5 @@ namespace Sürekli_İşçi_Maaş_Programı
         public string gerceklestirmeGorevlisiAdSoyad { get; set; }
         public string gerceklestirmeGorevlisiUnvan  { get; set; }
 
-
-
     }
 }
