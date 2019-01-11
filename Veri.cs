@@ -24,7 +24,7 @@ namespace Sürekli_İşçi_Maaş_Programı
         public string engellilikDurumu { get; set; }
         public string bes { get; set; }
         public string kefalet { get; set; }
-        public bool icraBorcu { get; set; }
+        public IcraBorcu icraBorcu { get; set; }
 
     }
 }

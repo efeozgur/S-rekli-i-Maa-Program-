@@ -67,6 +67,8 @@
     <Compile Include="OlayaBagliYardim.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Eski CSLER\SabitVeriler.cs" />
+    <Compile Include="SosyalYardimVerileri.cs" />
+    <Compile Include="UcretZammi.cs" />
     <Compile Include="Veri.cs" />
     <Compile Include="YolYemek.cs" />
     <EmbeddedResource Include="Form1.resx">

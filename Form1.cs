@@ -20,7 +20,6 @@ namespace Sürekli_İşçi_Maaş_Programı
         private void Form1_Load(object sender, EventArgs e)
         {
             
-            
 
         }
     }
